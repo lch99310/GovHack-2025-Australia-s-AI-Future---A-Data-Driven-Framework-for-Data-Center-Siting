@@ -1,6 +1,6 @@
 # GovHack 2025: Australia's AI Future - A Data-Driven Framework for Data Center Siting
 
-![Pandala GovHack 2025](/pic/pandala govhack2025.jpg)
+![Pandala GovHack 2025](https://github.com/lch99310/GovHack-2025-Australia-s-AI-Future---A-Data-Driven-Framework-for-Data-Center-Siting/blob/main/pic/pandala%20govhack2025.jpg)
 
 ### The GovHack Data Center Challenge: A Data-Driven Approach 💡
 
