@@ -32,4 +32,4 @@ My contribution extends beyond solving this immediate challenge. The analytical 
 
 For a detailed breakdown of the methodology, data sources, and analysis, please refer to the full report:
 
-[GovHack 2025: Australia's AI Future - A Data-Driven Framework for Data Center Siting.pdf](/GovHack 2025_ Australia's AI Future - A Data-Driven Framework for Data Center Siting.pdf)
+[GovHack 2025: Australia's AI Future - A Data-Driven Framework for Data Center Siting.pdf](https://github.com/lch99310/GovHack-2025-Australia-s-AI-Future---A-Data-Driven-Framework-for-Data-Center-Siting/blob/main/GovHack%202025_%20Australia's%20AI%20Future%20-%20A%20Data-Driven%20Framework%20for%20Data%20Center%20Siting.pdf)
